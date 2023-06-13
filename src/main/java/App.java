@@ -17,5 +17,6 @@ public class App {
         System.out.println("Переменные bean1 и bean2 ссылаются на один и тот же объект? " + (bean1==bean2));
         Cat beanCat2;
         System.out.println("Переменные beanCat1 и beanCat2 ссылаются на один и тот же объект? " + (beanCat1==beanCat2));
+
     }
 }
