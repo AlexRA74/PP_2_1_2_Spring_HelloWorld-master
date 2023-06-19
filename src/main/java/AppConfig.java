@@ -18,5 +18,6 @@ public class AppConfig {
         Cat cat = new Cat();
         cat.setMessage("Cat!");
         return cat;
+
     }
 }
